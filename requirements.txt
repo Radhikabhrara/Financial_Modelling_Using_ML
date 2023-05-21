@@ -1,3 +1,4 @@
+--upgrade pip
 yfinance
 plotly
 pystan==3.7.0
@@ -5,7 +6,7 @@ fbprophet
 tensorflow
 notebook==6.2.0
 mxnet-mkl==1.6.0 
-numpy==1.23.1
+numpy
 packaging==20.8
 pandas==1.2.1
 requests==2.25.1
