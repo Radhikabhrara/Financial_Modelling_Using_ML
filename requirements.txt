@@ -1,6 +1,6 @@
 yfinance
 plotly
-pystan~==2.14
+pystan==2.14
 fbprophet
 prophet
 notebook==6.2.0
