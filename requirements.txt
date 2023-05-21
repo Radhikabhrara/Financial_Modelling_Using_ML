@@ -1,4 +1,4 @@
---upgrade pip
+
 yfinance
 plotly
 pystan==3.7.0
