@@ -1,7 +1,7 @@
 
 yfinance
 plotly
-pystan==3.7.0
+pystan
 holidays==0.10.5.2
 convertdate 
 streamlit==1.16.0
