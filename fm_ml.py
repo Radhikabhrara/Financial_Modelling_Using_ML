@@ -13,12 +13,12 @@ import matplotlib.pyplot as plt
 import pandas_datareader as web
 from plotly import graph_objs as go
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.layers import Dense , Dropout , LSTM
-from tensorflow.keras.models import Sequential
+#from tensorflow.keras.layers import Dense , Dropout , LSTM
+#from tensorflow.keras.models import Sequential
 
 st.title('FINANCIAL MODELLING WITH MACHINE LEARNING')
 
-rad=st.sidebar.radio("Navigation",["Home","Stock Forecast App","CryptoCurrency prediction using Machine learning","CryptoCurrency prediction using Deep learning"])
+rad=st.sidebar.radio("Navigation",["Home","Stock Forecast App","CryptoCurrency prediction using Machine learning"])
 
 if rad=="Home":
   st.header('Project submission ')
