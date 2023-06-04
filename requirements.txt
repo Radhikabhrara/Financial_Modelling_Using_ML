@@ -1,4 +1,4 @@
---upgrade numpy==1.23.3 --force-reinstall
+numpy==1.23.3
 
 h5py
 typing-extensions
