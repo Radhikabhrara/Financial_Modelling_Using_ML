@@ -2,6 +2,9 @@
 numpy==1.23.3
 --upgrade tensorflow
 --upgrade tensorflow numpy
+python -m venv myenv
+source myenv/bin/activate
+/home/appuser/venv/bin/python -m pip install --upgrade pip
 
 h5py
 typing-extensions
