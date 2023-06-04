@@ -1,4 +1,7 @@
 --upgrade pip
+h5py
+typing-extensions
+wheel
 yfinance
 plotly
 pystan
