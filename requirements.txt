@@ -1,7 +1,5 @@
---use-feature=fast-deps numpy==1.23.3
-python -m venv myenv
-source myenv/bin/activate
-/home/appuser/venv/bin/python -m pip install --upgrade pip
+--upgrade numpy==1.23.3 --force-reinstall
+tensorflow==2.12.0
 
 h5py
 typing-extensions
