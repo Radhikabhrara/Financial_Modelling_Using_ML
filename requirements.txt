@@ -1,8 +1,4 @@
 numpy==1.23.3
-
-h5py
-typing-extensions
-wheel
 yfinance
 plotly
 pystan
