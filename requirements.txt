@@ -1,5 +1,5 @@
 --upgrade numpy==1.23.3 --force-reinstall
-tensorflow==2.12.0 --no-deps
+
 h5py
 typing-extensions
 wheel
