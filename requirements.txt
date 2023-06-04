@@ -1,4 +1,4 @@
---use-feature=fast-deps tensorflow==2.12.0 numpy==1.23.3
+--use-feature=fast-deps numpy==1.23.3
 python -m venv myenv
 source myenv/bin/activate
 /home/appuser/venv/bin/python -m pip install --upgrade pip
