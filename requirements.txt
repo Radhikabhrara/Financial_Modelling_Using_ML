@@ -1,4 +1,5 @@
---upgrade pip
+--upgrade streamlit
+
 pystan==2.19.1.1
 numpy==1.23.3
 
